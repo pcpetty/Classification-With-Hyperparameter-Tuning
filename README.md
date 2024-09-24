@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to classify two types of raisin grains—Kecimen and Besni—using a dataset containing morphological features. We utilize machine learning models and hyperparameter tuning techniques to achieve optimal classification performance. The dataset consists of 900 samples, equally distributed between the two classes, and includes seven numerical features describing each raisin sample.
+This project aims to classify two types of raisin grains—Kecimen and Besni—using a dataset containing morphological features. I am to utilize machine learning models and hyperparameter tuning techniques to achieve optimal classification performance. The dataset consists of 900 samples, equally distributed between the two classes, and includes seven numerical features describing each raisin sample.
 
 ## Objectives
 
